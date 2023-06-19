@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./assets/github-background.png "Justin Fluhmann")
 
 <!--
 **jfluhmann82/jfluhmann82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
